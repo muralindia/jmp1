@@ -9,6 +9,8 @@
 	<properties>
 		<jacoco.version>0.7.5.201505241946</jacoco.version>
 		<junit.version>4.12</junit.version>
+		<sonar.sources>src/main</sonar.sources>
+        	<sonar.tests>src/test</sonar.tests>
 	</properties>
 
 	<dependencies>
